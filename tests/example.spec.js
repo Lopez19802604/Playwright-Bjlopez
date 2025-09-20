@@ -1,0 +1,1 @@
+"import { test, expect } from '@playwright/test';\n\ntest('Verificar t¡tulo de Playwright', async ({ page }) => {\n  await page.goto('https://playwright.dev/');\n  await expect(page).toHaveTitle(/Playwright/);\n});" 
