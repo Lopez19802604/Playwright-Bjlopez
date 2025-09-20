@@ -1,8 +1,4 @@
 {
-<<<<<<< HEAD
   "status": "passed",
-=======
-  "status": "failed",
->>>>>>> 8ced76316a6d637d3c34bab92b88098673f1d7c3
   "failedTests": []
 }
